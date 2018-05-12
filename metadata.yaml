@@ -1,0 +1,25 @@
+_repo: The-Cross-in-Ritual-Architecture-and-Art_39839
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39839-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tyack, Geo. S. (George Smith)
+    alias: Tyack, George Smith
+    gutenberg_agent_id: '40260'
+    url: http://www.gutenberg.org/2009/agents/40260
+description: ''
+gutenberg_issued: '2012-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crosses'
+- !lcc 'BV'
+title: The Cross in Ritual, Architecture and Art
+url: http://www.gutenberg.org/ebooks/39839
